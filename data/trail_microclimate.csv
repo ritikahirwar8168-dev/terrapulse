@@ -1,0 +1,26 @@
+temperature_c,humidity_pct,soil_moisture_pct,elevation_m,hours_since_rain,canopy_cover_pct,wind_speed_kmh,trail_condition,frost_risk,activity_recommendation
+18.5,45,22,350,48,60,12,Prime Dry,No Frost,Ideal Trail Run & Hiking
+22.0,38,18,520,72,30,15,Prime Dry,No Frost,Ridge Hiking & Photography
+14.2,85,68,280,3,75,8,Muddy & Slippery,No Frost,Caution: Heavy Mud - Wear Boots
+11.0,92,82,410,1,85,20,Severe Mud / Waterlogged,No Frost,Avoid Steep Slopes - Stick to Gravel
+2.5,65,45,850,24,40,25,Frost & Ice Hazard,High Frost Risk,Crampons / Ice Spikes Advised
+-1.2,78,55,1100,12,20,30,Frozen / Hardpacked Ice,Severe Frost,Winter Alpine Caution
+16.0,52,30,190,36,50,10,Prime Dry,No Frost,Forest Foraging & Plant Identification
+24.5,40,15,120,96,25,7,Prime Dry,No Frost,Sun Protection Needed - Great Walking
+8.5,88,72,600,6,70,18,Muddy & Slippery,Moderate Frost Risk,Slippery Roots & Wet Rocks
+1.0,70,60,920,18,55,22,Frost & Ice Hazard,High Frost Risk,Early Morning Frost - Stay on Flat Trails
+19.0,50,25,400,60,65,11,Prime Dry,No Frost,Perfect for Trail Exploration
+13.5,80,62,310,8,80,14,Muddy & Slippery,No Frost,Wet Leaf Litter - Slow Pace
+26.0,35,12,150,120,15,9,Prime Dry,No Frost,Hydration Critical - Easy Walk
+0.5,82,65,980,10,45,28,Frozen / Hardpacked Ice,Severe Frost,Freezing Trail - Extreme Caution
+15.5,58,35,260,30,60,13,Prime Dry,No Frost,Optimal Dirt Path - Great Traction
+7.0,84,70,550,5,65,16,Muddy & Slippery,Moderate Frost Risk,High Mud Probability
+3.2,60,40,780,40,35,19,Frost & Ice Hazard,High Frost Risk,Frost on Shaded Switchbacks
+21.5,42,20,380,80,45,12,Prime Dry,No Frost,Fast Trail Pace - Clear Conditions
+10.2,79,58,450,12,70,15,Muddy & Slippery,Low Frost Risk,Damp Soil - Moderate Traction
+-2.5,75,50,1250,15,10,35,Frozen / Hardpacked Ice,Severe Frost,Alpine Ice - Winter Skills Required
+17.8,48,24,320,55,55,10,Prime Dry,No Frost,Golden Hour Nature Walk
+12.0,86,75,290,4,85,9,Severe Mud / Waterlogged,No Frost,Deep Puddles - Water-resistant Shoes
+4.0,68,48,820,30,50,21,Frost & Ice Hazard,High Frost Risk,Crisp Morning - Watch For Black Ice
+23.0,39,17,210,90,30,8,Prime Dry,No Frost,Dry Hardpack - Top Trail Conditions
+9.5,83,67,510,7,60,17,Muddy & Slippery,Low Frost Risk,Slippery Downhills - Use Trekking Poles
