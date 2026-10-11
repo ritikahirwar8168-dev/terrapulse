@@ -2,13 +2,16 @@
 
 **Less screen time. More time outdoors.**
 
+🌐 **Live Deployment:** [https://terrapulse-wlci.onrender.com](https://terrapulse-wlci.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?logo=render&logoColor=black)](https://terrapulse-wlci.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Google Gemma](https://img.shields.io/badge/Model-Gemma%202-4285F4?logo=google&logoColor=white)](https://ai.google.dev/gemma)
 [![Prior Labs TabPFN](https://img.shields.io/badge/Tabular%20Foundation-Prior%20Labs%20TabPFN-7C3AED)](https://priorlabs.ai/)
 [![ElevenLabs](https://img.shields.io/badge/Voice-ElevenLabs%20Turbo-F59E0B)](https://elevenlabs.io/)
 [![Sentry](https://img.shields.io/badge/Tracing-Sentry%20SDK-362D59?logo=sentry&logoColor=white)](https://sentry.io/)
-[![Render](https://img.shields.io/badge/Deploy-Render%20Ready-46E3B7?logo=render&logoColor=black)](https://render.com/)
+[![Render](https://img.shields.io/badge/Deploy-Render%20Live-46E3B7?logo=render&logoColor=black)](https://terrapulse-wlci.onrender.com)
 
 ---
 
@@ -473,6 +476,11 @@ pytest
 ---
 
 ## Deployment
+
+### Live Cloud Deployment (Render)
+TerraPulse is deployed and running live on Render:
+- 🌐 **Live Web Application:** [https://terrapulse-wlci.onrender.com](https://terrapulse-wlci.onrender.com)
+- 📖 **Interactive Swagger Docs:** [https://terrapulse-wlci.onrender.com/docs](https://terrapulse-wlci.onrender.com/docs)
 
 ### Local Deployment
 Run directly using Python and Uvicorn:

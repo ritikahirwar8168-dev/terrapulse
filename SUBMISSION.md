@@ -38,5 +38,6 @@ Open-source and open-weight AI fundamentally changes this equation:
 ---
 
 ### 🚀 Running the Project
+- **🌐 Live Demo (Render):** [https://terrapulse-wlci.onrender.com](https://terrapulse-wlci.onrender.com)
 - **Local:** `python app.py` ➔ Open `http://localhost:8000`
 - **Deploy on Render:** Push repository and connect via `render.yaml`
